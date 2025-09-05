@@ -5,7 +5,6 @@ Atuo com testes manuais e automatizados, com foco em qualidade de software. Tenh
 
 ## 📝 Sobre mim
 
-- 🎯 QA estratégica com atuação sólida em múltiplas frentes de qualidade
 - 🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em cobertura e rastreabilidade
 - 🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (test-end, to-end)
 - 🧪 Conhecimento sólido em testes manuais e exploratórios
